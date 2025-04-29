@@ -44,7 +44,7 @@ THEN I can start a new quiz
 
 The following animation demonstrates the application functionality:
 
-![Animation shows "star wars" typed into a search box and books about Star Wars appearing as results.](./Assets/18-mern-homework-demo-01.gif)
+![Home Page](https://github.com/alexis-menendez/Module-19-Runestone-Evaluation/blob/main/Assets/19-testing-homework-demo.gif?raw=true)
 
 ## Getting Started
 
